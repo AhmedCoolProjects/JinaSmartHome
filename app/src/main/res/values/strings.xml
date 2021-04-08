@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">JinaSmartHome</string>
+    <string name="desc">desc</string>
+    <!--Login-->
+    <string name="smart">SMART</string>
+    <string name="home">HOME</string>
+    <string name="sign1">sign into</string>
+    <string name="sign2">mange your device &amp; accessory</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="create_acc"><u>Create an Account</u></string>
+    <string name="login">Log in</string>
+    <string name="no_acc">don’t have an account yet?</string>
+    <!--dashboard-->
+
+
+</resources>
