@@ -19,5 +19,7 @@
     <color name="swatch_8">#3f66a0</color>
     <color name="signin">#8A7051</color>
     <color name="swatch_9">#6C5A45</color>
+    <color name="divider">#C68333</color>
+    <color name="cercle_icon">#C2771E</color>
     <!--end from the design-->
 </resources>
