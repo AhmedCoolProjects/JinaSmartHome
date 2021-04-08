@@ -12,7 +12,8 @@
         <activity android:name=".Bedroom" />
         <activity android:name=".MainActivity" />
         <activity
-            android:name=".Login">
+            android:name=".Login"
+            android:windowSoftInputMode="adjustResize">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
