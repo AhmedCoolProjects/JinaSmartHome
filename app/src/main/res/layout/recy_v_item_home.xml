@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/item_layout"
+    android:layout_width="133dp"
+    android:layout_height="95dp"
+    android:layout_marginStart="@dimen/item_recy_mrg"
+    android:layout_marginEnd="@dimen/item_recy_mrg"
+    android:background="@drawable/recy_bg_home"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/img_recy_home"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="12dp"
+        android:contentDescription="@string/desc"
+        app:srcCompat="@drawable/ic_sunrise_icon" />
+
+    <TextView
+        android:id="@+id/txt_recy_home"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/roboto"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="15sp" />
+</LinearLayout>
